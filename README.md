@@ -1,4 +1,6 @@
+<div align='center'>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qalqaa&theme=material_palenight)
+</div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qalqaa&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qalqaa&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qalqaa&theme=material_palenight)
