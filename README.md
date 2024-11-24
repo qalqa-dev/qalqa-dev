@@ -17,7 +17,7 @@ I’m currently in my second year at Moscow Polytechnic University, studying web
 
 ### Vanilla:
 
-![Html](https://img.shields.io/badge/-html-201c2c?style=for-the-badge&logo=html5) ![Css](https://img.shields.io/badge/-css-201c2c?style=for-the-badge&logo=CSS3) ![JS](https://img.shields.io/badge/-css-201c2c?style=for-the-badge&logo=javascript)
+![Html](https://img.shields.io/badge/-html-201c2c?style=for-the-badge&logo=html5) ![Css](https://img.shields.io/badge/-css-201c2c?style=for-the-badge&logo=CSS3) ![JS](https://img.shields.io/badge/-JS-201c2c?style=for-the-badge&logo=javascript)
 
 ### Frameworks:
 
