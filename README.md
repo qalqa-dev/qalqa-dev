@@ -15,19 +15,19 @@ I’m currently in my second year at Moscow Polytechnic University, studying web
 
 ## Stack 🛠️
 
-### Vanilla:
+### Vanilla
 
 ![Html](https://img.shields.io/badge/-html-201c2c?style=for-the-badge&logo=html5) ![Css](https://img.shields.io/badge/-css-201c2c?style=for-the-badge&logo=CSS3) ![JS](https://img.shields.io/badge/-JS-201c2c?style=for-the-badge&logo=javascript)
 
-### Frameworks:
+### Frameworks
 
 ![Angular](https://img.shields.io/badge/-Angular-201c2c?style=for-the-badge&logo=angular) ![React](https://img.shields.io/badge/-react-201c2c?style=for-the-badge&logo=react) ![Vue](https://img.shields.io/badge/-vue-201c2c?style=for-the-badge&logo=vue.js) ![Next](https://img.shields.io/badge/-Next-201c2c?style=for-the-badge&logo=Next.js) ![Nuxt](https://img.shields.io/badge/-Nuxt-201c2c?style=for-the-badge&logo=nuxt.js)
 
-### Style Frameworks:
+### Style Frameworks
 
 ![Tailwind](https://img.shields.io/badge/-tailwind-201c2c?style=for-the-badge&logo=tailwindcss) ![Primeflex](https://img.shields.io/badge/-primeflex-201c2c?style=for-the-badge&logo=primefaces) ![Bootstrap](https://img.shields.io/badge/-Boostrap-201c2c?style=for-the-badge&logo=bootstrap)
 
-### Component Libs:
+### Component Libs
 
 ![PrimeNG](https://img.shields.io/badge/-primeng-201c2c?style=for-the-badge&logo=primeng)![PrimeReact](https://img.shields.io/badge/-PrimeReact-201c2c?style=for-the-badge&logo=PrimeReact)![PrimeVue](https://img.shields.io/badge/-PrimeVue-201c2c?style=for-the-badge&logo=primevue) ![AntDesign](https://img.shields.io/badge/-Ant_Design-201c2c?style=for-the-badge&logo=antdesign) ![MaterialDesign](https://img.shields.io/badge/-Material_design-201c2c?style=for-the-badge&logo=materialdesign)
 
@@ -46,6 +46,8 @@ I’m currently in my second year at Moscow Polytechnic University, studying web
 ### Used Platforms
 
 ![MacOS](https://img.shields.io/badge/-Macos-201c2c?style=for-the-badge&logo=apple) ![Linux](https://img.shields.io/badge/-Ubuntu-201c2c?style=for-the-badge&logo=ubuntu) ![Arch](https://img.shields.io/badge/-Arch-201c2c?style=for-the-badge&logo=ArchLinux)
+
+no windows icon,srsly? 🫠
 
 ## Some Stats 📊
 
