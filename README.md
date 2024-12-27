@@ -10,7 +10,7 @@
 Hi there! I’m Andrey, a frontend developer with 2 years of professional experience. I’ve been into coding as a hobby for 4 years now and have always been passionate about everything tech and development.
 </p>
 <p style="max-width: 600px">
-I’m currently in my second year at Moscow Polytechnic University, studying web development (and doing pretty well☝️🤓). I got my start as a freelancer before transitioning to full-time commercial projects. Right now, I’m taking a break, but I’m super excited about the idea of joining Yandex! ❤️
+I’m currently in my second year at Moscow Polytechnic University, studying web development (and doing pretty well☝️🤓). I got my start as a freelancer before transitioning to full-time commercial projects.
 </p>
 
 ## Stack 🛠️
