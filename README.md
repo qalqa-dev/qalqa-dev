@@ -51,8 +51,8 @@ no windows icon,srsly? 🫠
 
 ## Some Stats 📊
 
-[![GitHub Streak](https://github-readme-streak-stats.entelecheia.me?user=qalqaa&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=280&hide_longest_streak=true&hide_total_contributions=true)](https://git.io/streak-stats)
-![qalqaa's Stats](https://github-readme-stats.vercel.app/api?username=qalqaa&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true) 
+[![GitHub Streak](https://github-readme-streak-stats.entelecheia.me?user=qalqaa&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1150)](https://git.io/streak-stats)
+![qalqaa's Stats](https://github-readme-stats.vercel.app/api?username=qalqaa&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&card_width=1150) 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qalqaa&bg_color=1e1e2e&color=cba6f7&line=94e2d5&point=cba6f7&radius=5&area=true&hide_border=true&grid=false&days=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![codewars](https://www.codewars.com/users/qalqa/badges/large)](https://www.codewars.com/users/qalqa) 
 
