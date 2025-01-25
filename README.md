@@ -1,17 +1,15 @@
 # 👋 Hiya, its me 👇
-
-[![funny-cat](assets/nerd-nerd-cat.gif)](https://qalqa.netlify.app/)
+<p>
+  <a href="https://qalqa.netlify.app/"><img width="100%" height="300px" src="assets/nerd-nerd-cat.gif" alt='funny-cat'></img></a>
+</p>
 
 ### jk, i'm Frontend Developer
 
 ## About me
 
-<p style="max-width: 600px">
 Hi there! I’m Andrey, a frontend developer with 2 years of professional experience. I’ve been into coding as a hobby for 4 years now and have always been passionate about everything tech and development.
-</p>
-<p style="max-width: 600px">
+
 I’m currently in my second year at Moscow Polytechnic University, studying web development (and doing pretty well☝️🤓). I got my start as a freelancer before transitioning to full-time commercial projects.
-</p>
 
 ## Stack 🛠️
 
@@ -54,7 +52,7 @@ no windows icon,srsly? 🫠
 [![GitHub Streak](https://github-readme-streak-stats.entelecheia.me?user=qalqaa&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=405&hide_total_contributions=true)](https://git.io/streak-stats)
 ![qalqaa's Stats](https://github-readme-stats.vercel.app/api?username=qalqaa&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&card_width=400) 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qalqaa&bg_color=1e1e2e&color=cba6f7&line=94e2d5&point=cba6f7&radius=5&area=true&hide_border=true&grid=false&days=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![codewars](https://www.codewars.com/users/qalqa/badges/large)](https://www.codewars.com/users/qalqa) 
+[![codewars](https://www.codewars.com/users/qalqa/badges/large)](https://www.codewars.com/users/qalqa)
 
 no time sry 😔
 
