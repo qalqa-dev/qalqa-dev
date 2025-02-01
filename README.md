@@ -27,7 +27,7 @@ I’m currently in my second year at Moscow Polytechnic University, studying web
 
 ### Component Libs
 
-![PrimeNG](https://img.shields.io/badge/-primeng-201c2c?style=for-the-badge&logo=primeng)![PrimeReact](https://img.shields.io/badge/-PrimeReact-201c2c?style=for-the-badge&logo=PrimeReact)![PrimeVue](https://img.shields.io/badge/-PrimeVue-201c2c?style=for-the-badge&logo=primevue) ![AntDesign](https://img.shields.io/badge/-Ant_Design-201c2c?style=for-the-badge&logo=antdesign) ![MaterialDesign](https://img.shields.io/badge/-Material_design-201c2c?style=for-the-badge&logo=materialdesign)
+![PrimeNG](https://img.shields.io/badge/-primeng-201c2c?style=for-the-badge&logo=primeng) ![PrimeReact](https://img.shields.io/badge/-PrimeReact-201c2c?style=for-the-badge&logo=PrimeReact)![PrimeVue](https://img.shields.io/badge/-PrimeVue-201c2c?style=for-the-badge&logo=primevue) ![AntDesign](https://img.shields.io/badge/-Ant_Design-201c2c?style=for-the-badge&logo=antdesign) ![MaterialDesign](https://img.shields.io/badge/-Material_design-201c2c?style=for-the-badge&logo=materialdesign)
 
 ### Tests
 
