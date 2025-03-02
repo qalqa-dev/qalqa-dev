@@ -1,4 +1,4 @@
-# 👋 Hiya, its me 👇
+# 👋 Hiya, its me 👇 (click on him to see my portfolio)
 <p>
   <a href="https://portfolio-site-qalqas-projects.vercel.app/"><img width="100%" height="300px" src="assets/nerd-nerd-cat.gif" alt='funny-cat'></img></a>
 </p>
