@@ -1,6 +1,6 @@
 # 👋 Hiya, its me 👇
 <p>
-  <a href="https://qalqa.netlify.app/"><img width="100%" height="300px" src="assets/nerd-nerd-cat.gif" alt='funny-cat'></img></a>
+  <a href="https://portfolio-site-qalqas-projects.vercel.app/"><img width="100%" height="300px" src="assets/nerd-nerd-cat.gif" alt='funny-cat'></img></a>
 </p>
 
 ### jk, i'm Frontend Developer
