@@ -11,17 +11,63 @@
 
 ## Stack 💻
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,next,prisma,tailwind,vite,vitest,django,postgresql,redis,mongodb,kafka,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## Techs 📚
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,next,prisma,vue,pinia,angular,astro,tailwind,pnpm,yarn,vite,webpack,vitest,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,php,laravel,postgresql,redis,mongodb,kafka,nginx,appwrite,graphql,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=appwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+
 
 ## Some Stats 📊
 
