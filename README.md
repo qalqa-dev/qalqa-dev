@@ -1,4 +1,4 @@
-# Hiya stranger 👋, i'm [`qalqa`](https://portfolio-site-qalqas-projects.vercel.app/)
+# Hiya stranger 👋, i'm [`qalqa`](https://qalqa-portfolio.vercel.app/)
 
 `Fullstack Web-developer`
 
@@ -7,7 +7,7 @@
 - 👀 Real name is **Andrey**
 - 🌎 Native country is **Belarus🇧🇾**
 - ✨ Experience - **2 years**
-- 🖥️ You can check my portfolio [**here**](https://portfolio-site-qalqas-projects.vercel.app/)
+- 🖥️ You can check my portfolio [**here**](https://qalqa-portfolio.vercel.app/)
 
 ## Stack 💻
 
