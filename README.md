@@ -80,7 +80,7 @@ no time sry 😔
 
 ## Contacts 🪪
 
-<a href='https://t.me/qalqaa'><img src='assets/telegram.png' width='48px' alt='telegram-link'></img></a>
+<a href='https://t.me/qalqa_dev'><img src='assets/telegram.png' width='48px' alt='telegram-link'></img></a>
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:andreybas04@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://www.stackoverflow.com/users/28464959/qalqa)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/qalqa)
