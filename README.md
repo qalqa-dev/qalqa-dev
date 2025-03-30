@@ -23,8 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## Techs 📚
