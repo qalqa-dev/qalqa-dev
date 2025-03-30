@@ -36,9 +36,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pinia)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
@@ -62,12 +62,17 @@
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+
+### Other
+
 [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=appwrite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 
+*Prisma, Next.js, and Astro on the frontend—since I don’t wanna make a separate category for just three technologies. Anyway, this is more frontend-related stuff*
 
 ## Some Stats 📊
 
