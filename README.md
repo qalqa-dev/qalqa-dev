@@ -61,16 +61,12 @@
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
 
 ### Other
 
 [![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=appwrite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 
 *Prisma, Next.js, and Astro on the frontend—since I don’t wanna make a separate category for just three technologies. Anyway, this is more frontend-related stuff*
 
