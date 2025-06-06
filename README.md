@@ -21,9 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## Techs 📚
