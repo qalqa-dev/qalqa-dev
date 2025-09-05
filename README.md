@@ -13,16 +13,11 @@
 ## Stack 💻
 
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vitest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
 
 ## Techs 📚
 
