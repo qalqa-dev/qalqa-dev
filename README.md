@@ -5,7 +5,7 @@
 ## About me 🐈
 
 - 👀 Real name is **Andrey**
-- 📚 **2nd year student** at the Moscow Polytechnic University
+- 📚 **3rd year student** at the Moscow Polytechnic University
 - 🌎 Native country is **Belarus🇧🇾**
 - ✨ Experience - **2 years**
 - 🖥️ You can check my portfolio [**here**](https://qalqa-portfolio.vercel.app/)
