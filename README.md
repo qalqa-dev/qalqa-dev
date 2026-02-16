@@ -1,4 +1,4 @@
-# Hiya stranger 👋, i'm [`qalqa`](https://qalqa-portfolio.vercel.app/)
+# Hello 👋, i'm [`qalqa`](https://qalqa-portfolio.vercel.app/)
 
 `Fullstack Web-developer`
 
