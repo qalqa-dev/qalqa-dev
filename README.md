@@ -77,8 +77,7 @@
 
 <br>
 
-<div align="center"><img src="https://img.shields.io/badge/%E2%9C%A6_ACTIVITY_%E2%9C%A6
--b4befe?style=for-the-badge&labelColor=b4befe&color=b4befe" /></div>
+<div align="center"><img src="https://img.shields.io/badge/%E2%9C%A6_ACTIVITY_%E2%9C%A6-b4befe?style=for-the-badge&labelColor=b4befe&color=b4befe" /></div>
 
 <br>
 
