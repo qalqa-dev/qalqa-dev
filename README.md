@@ -84,7 +84,7 @@
 <div align="center">
 <table><tr>
 <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.entelecheia.me?user=qalqa-dev&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" /></a></td>
-<td><img src="https://qalqa-github-readme-stats.vercel.app/api?username=qalqa-dev&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&card_width=380" /></td>
+<td><img src="https://qalqa-github-readme-stats.vercel.app/api?username=qalqa-dev&theme=catppuccin_mocha&show_icons=true&count_private=true&hide_border=true&card_width=380" /></td>
 </tr></table>
 </div>
 
