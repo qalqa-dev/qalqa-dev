@@ -82,17 +82,30 @@
 <br>
 
 <div align="center">
-<table><tr>
-<td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.entelecheia.me?user=qalqa-dev&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" /></a></td>
-<td><img src="https://qalqa-github-readme-stats.vercel.app/api?username=qalqa-dev&theme=catppuccin_mocha&show_icons=true&count_private=true&hide_border=true&card_width=380" /></td>
-</tr></table>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.entelecheia.me?user=qalqa\-dev&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400&border_radius=10&hide_total_contributions=true" />
+      </td>
+      <td align="center">
+        <img src="https://qalqa-github-readme-stats.vercel.app/api?username=qalqa-dev&theme=catppuccin_mocha&show_icons=true&count_private=true&hide_border=true&border_radius=10&card_width=400" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://qalqa-github-readme-stats.vercel.app/api/top-langs?username=qalqa-dev&theme=catppuccin_mocha&count_private=true&exclude_repo=&hide_border=true&langs_count=8&size_weight=1&count_weight=0.5&layout=compact&border_radius=10&card_width=950" />
+        </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=qalqa-dev&hide_title=true&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=94e2d5&radius=10&area=true&hide_border=true&grid=false&days=30">
+        </td>
+    </tr>
+  </table>
 </div>
-
 <br>
 
 <div align="center">
-
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=qalqa-dev&bg_color=1e1e2e&color=cba6f7&line=94e2d5&point=cba6f7&radius=5&area=true&hide_border=true&grid=false&days=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -122,9 +135,13 @@
 
 <div align="center">
 
-```
-open to: internships · freelance · interesting problems
-not open to: boring CRUDs (unless the pay is right)
-```
+<samp>
+        ╔═══════════════════════════════╗<br>
+        ║⠀⠀⠀⠀⠀⠀⠀⠀｡⠀open to:⠀｡⠀⠀⠀⠀⠀⠀⠀⠀║<br>
+        ║⠀⠀｡⠀<b>bigtechs</b> co⠀·⠀<b>startups</b>⠀｡⠀⠀║<br>
+        ║⠀⠀｡⠀<b>internship</b>⠀·⠀<b>freelance</b>⠀｡⠀⠀║<br>
+        ║⠀⠀⠀⠀⠀｡ <b>interesting</b> tasks ｡⠀⠀⠀⠀║<br>
+        ╚═══════════════════════════════╝
+</samp>
 
 </div>
