@@ -25,7 +25,7 @@
 
 <br>
 
-[![portfolio](https://img.shields.io/badge/portfolio-qalqa.vercel.app-cba6f7?&labelColor=1e1e2e)](https://qalqa-portfolio.vercel.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-qalqa.vercel.app-cba6f7?style=flat-square&labelColor=1e1e2e)](https://qalqa-portfolio.vercel.app/)
 
 ##
 
